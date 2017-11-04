@@ -7,4 +7,4 @@ URL : https://www.insee.fr/fr/statistiques/3126432#consulter<br>
 Source de la couche vectorielle : GEOFLA® de l'IGN - Communes - Géographie 2015<br>
 URL : http://professionnels.ign.fr/geofla<br>issues de l'enquête FiLoSoFi publiée par l'INSEE en 2017.
 
-Projet 
+Données mises en forme avec QGIS dans sa version 2.18.14.
