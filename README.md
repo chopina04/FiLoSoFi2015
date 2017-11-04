@@ -1,6 +1,6 @@
 # FiLoSoFi2015
 
-Cartographie du revenu médian des ménages par communes en 2014 en France métropolitaine.
+Cartographie du revenu médian des ménages par commune en France métropolitaine en 2014.
 
 Source des données :<br>
 <li>Base <i>Revenus et pauvreté des ménages en 2014</i> (INSEE) mise en ligne le 29 septembre 2017 et consultée en octobre 2017<br>
